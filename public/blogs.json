@@ -1,0 +1,192 @@
+[
+    {
+      "id": "1",
+      "cover": "https://i.ibb.co/QkC3FpS/blogs-cover1.jpg",
+      "title": "Lorem Ipsum",
+      "author": "John Doe",
+      "author_img": "https://i.ibb.co/JjbKRT2/author1.jpg",
+      "posted_date": "2024-03-13",
+      "reading_time": 10
+    },
+    {
+      "id": "2",
+      "cover": "https://i.ibb.co/wYkGSzW/blogs-cover2.jpg",
+      "title": "Dolor Sit Amet",
+      "author": "Jane Smith",
+      "author_img": "https://i.ibb.co/fQd5Ngx/author2.jpg",
+      "posted_date": "2024-03-12",
+      "reading_time": 15
+    },
+    {
+      "id": "3",
+      "cover": "https://i.ibb.co/KWq9qPK/blogs-cover3.jpg",
+      "title": "Consectetur Adipiscing",
+      "author": "Alice Johnson",
+      "author_img": "https://i.ibb.co/Ht81d5R/author3.jpg",
+      "posted_date": "2024-03-11",
+      "reading_time": 20
+    },
+    {
+      "id": "4",
+      "cover": "https://i.ibb.co/DMvtWgY/blogs-cover4.jpg",
+      "title": "Sed Do Eiusmod",
+      "author": "Bob Williams",
+      "author_img": "https://i.ibb.co/Mk17MgS/author4.jpg",
+      "posted_date": "2024-03-10",
+      "reading_time": 12
+    },
+    {
+      "id": "5",
+      "cover": "https://i.ibb.co/9ZjP9rV/blogs-cover5.jpg",
+      "title": "Tempor Incididunt",
+      "author": "Emily Brown",
+      "author_img": "https://i.ibb.co/DGyGpTw/author5.jpg",
+      "posted_date": "2024-03-09",
+      "reading_time": 18
+    },
+    {
+      "id": "6",
+      "cover": "https://i.ibb.co/PgtV6j8/blogs-cover6.jpg",
+      "title": "Voluptate Velit",
+      "author": "Michael Johnson",
+      "author_img": "https://i.ibb.co/1KyVzq5/author6.jpg",
+      "posted_date": "2024-03-08",
+      "reading_time": 22
+    },
+    {
+      "id": "7",
+      "cover": "https://i.ibb.co/6chdGZd/blogs-cover7.jpg",
+      "title": "Exercitation Ullamco",
+      "author": "Sarah Davis",
+      "author_img": "https://i.ibb.co/mXmk2rm/author7.jpg",
+      "posted_date": "2024-03-07",
+      "reading_time": 16
+    },
+    {
+      "id": "8",
+      "cover": "https://i.ibb.co/fQ1N2Lw/blogs-cover8.jpg",
+      "title": "Laboris Nisi",
+      "author": "Kevin Wilson",
+      "author_img": "https://i.ibb.co/JF4337Y/author8.jpg",
+      "posted_date": "2024-03-06",
+      "reading_time": 25
+    },
+    {
+      "id": "9",
+      "cover": "https://i.ibb.co/xMqmtCQ/blogs-cover9.jpg",
+      "title": "Aliqua Commodo",
+      "author": "Jessica Lee",
+      "author_img": "https://i.ibb.co/bz89XVc/author9.jpg",
+      "posted_date": "2024-03-05",
+      "reading_time": 14
+    },
+    {
+      "id": "10",
+      "cover": "https://i.ibb.co/jf867Vj/blogs-cover10.jpg",
+      "title": "Ut Enim Ad Minim",
+      "author": "David Taylor",
+      "author_img": "https://i.ibb.co/MsQ7NsZ/author10.jpg",
+      "posted_date": "2024-03-04",
+      "reading_time": 19
+    },
+    {
+      "id": "11",
+      "cover": "https://i.ibb.co/JdPB87m/blogs-cover11.jpg",
+      "title": "Quis Nostrud",
+      "author": "Hannah Anderson",
+      "author_img": "https://i.ibb.co/K0Dk9Qb/author11.jpg",
+      "posted_date": "2024-03-03",
+      "reading_time": 18
+    },
+    {
+      "id": "12",
+      "cover": "https://i.ibb.co/Tq5vg2s/blogs-cover12.jpg",
+      "title": "Exercitation Ullamco",
+      "author": "James Wilson",
+      "author_img": "https://i.ibb.co/sCnhr1L/author12.jpg",
+      "posted_date": "2024-03-02",
+      "reading_time": 21
+    },
+    {
+      "id": "13",
+      "cover": "https://i.ibb.co/rMpd7k3/blogs-cover13.jpg",
+      "title": "Amet Consectetur",
+      "author": "Olivia Moore",
+      "author_img": "https://i.ibb.co/M24Hpm7/author13.jpg",
+      "posted_date": "2024-03-01",
+      "reading_time": 17
+    },
+    {
+      "id": "14",
+      "cover": "https://i.ibb.co/qdmfL79/blogs-cover14.jpg",
+      "title": "Quis Autem Vel",
+      "author": "Ethan Adams",
+      "author_img": "https://i.ibb.co/f4p0B8c/author14.jpg",
+      "posted_date": "2024-02-29",
+      "reading_time": 23
+    },
+    {
+      "id": "15",
+      "cover": "https://i.ibb.co/307jKkP/blogs-cover15.jpg",
+      "title": "Neque Porro Quisquam",
+      "author": "Sophia Baker",
+      "author_img": "https://i.ibb.co/LS6BCq0/author15.jpg",
+      "posted_date": "2024-02-28",
+      "reading_time": 13
+    },
+    {
+      "id": "16",
+      "cover": "https://i.ibb.co/3dKNvfN/blogs-cover16.jpg",
+      "title": "Ut Aliquam Erat",
+      "author": "Jackson Miller",
+      "author_img": "https://i.ibb.co/nbdBMPY/author16.jpg",
+      "posted_date": "2024-02-27",
+      "reading_time": 26
+    },
+    {
+      "id": "17",
+      "cover": "https://i.ibb.co/y06mcrs/blogs-cover17.jpg",
+      "title": "Velit Esse Cillum",
+      "author": "Chloe Young",
+      "author_img": "https://i.ibb.co/Wc9N2zF/author17.jpg",
+      "posted_date": "2024-02-26",
+      "reading_time": 18
+    },
+    {
+      "id": "18",
+      "cover": "https://i.ibb.co/CQzpsMQ/blogs-cover18.jpg",
+      "title": "Dolore Magna Aliqua",
+      "author": "Liam Thomas",
+      "author_img": "https://i.ibb.co/5MmXMNV/author18.jpg",
+      "posted_date": "2024-02-25",
+      "reading_time": 20
+    },
+    {
+      "id": "19",
+      "cover": "https://i.ibb.co/mCW3S3V/blogs-cover19.jpg",
+      "title": "Enim Ad Minim",
+      "author": "Mia Wilson",
+      "author_img": "https://i.ibb.co/9vxSKgC/author19.jpg",
+      "posted_date": "2024-03-23",
+      "reading_time":20
+    },
+    {
+        "id": "20",
+        "cover": "https://i.ibb.co/cXdkM06/author20.jpg",
+        "title": "Dolore Magna Aliqua",
+        "author": "Liam Thomas",
+        "author_img": "https://example.com/author18.jpg",
+        "posted_date": "2024-02-25",
+        "reading_time": 25
+    },
+    {
+      "id": "21",
+      "cover": "https://i.ibb.co/mJ0sx6q/blogs-cover21.jpg",
+      "title": "Ut Aliquam Erat",
+      "author": "Jackson Miller",
+      "author_img": "https://i.ibb.co/cXdkM06/author20.jpg",
+      "posted_date": "2024-02-27",
+      "reading_time": 30
+    }
+]
+  
